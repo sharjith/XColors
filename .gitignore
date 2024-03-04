@@ -7,3 +7,5 @@ ui_*.h
 ui_*.cpp
 qrc_*.cpp
 .qmake.stash
+.qtc_clangd
+
